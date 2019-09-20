@@ -1,0 +1,40 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+.h1, h1 {
+    font-size: 200px;
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
+.h2, h2 {
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
+
+.w3-myfont {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+a{
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+
+}
+.input[type=text] {
+        border: 1px solid #ccc;
+    }
+.wrapper {
+    text-align: center;
+}
+.modal-body {
+    position: relative;
+    padding: 25px;
+}

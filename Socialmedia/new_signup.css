@@ -1,0 +1,90 @@
+body{
+	padding: 0px;
+	margin: 0px;
+}
+.header{
+	background-color: #1A3333;
+	color: white;
+	text-align: center;
+	top: 0px;
+	width: 100%;
+	padding: 5px;
+}
+form{
+	width: 40%;
+	padding: 30px;
+	border: 1px solid #cbcbcb;
+	margin: 5px auto;
+}
+.textInput{
+	margin-top: 2px;
+	height: 28px;
+	border: 1px solid #5E6E66;
+	font-size: 16px;
+	padding: 1px;
+	width: 100%;
+}
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: white;
+}
+.h1, h1 {
+    font-size: 200px;
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
+.h2, h2 {
+    font-size: 100px;
+    color: white;
+    text-align: center;
+}
+
+.w3-myfont {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+a{
+    text-align: center;
+}
+
+p{
+	text-align: center;
+	color: white;
+    padding-top: 10px;
+
+}
+.input[type=text] {
+        border: 1px solid #ccc;
+    }
+.wrapper {
+    text-align: center;
+}
+i {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+}
+.left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+.wrapper {
+    text-align: center;
+}
+#error_msg{
+	width: 50%;
+    margin: 5px auto;
+    height: 30px;
+    border: 1px solid #FF0000;
+    background: #FFB9B8;
+    color: #FF0000;
+    text-align: center;
+    padding-top: 10px;
+}
+
+td{
+	text-align: right;
+}
